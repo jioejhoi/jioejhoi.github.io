@@ -3,24 +3,21 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+건양대학교 기업소프트웨어학부 3학년 재학중
 
 <br/>
 
-# Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
-
+# Education
+*  College (2022/03 ~ 2018/02)
+  * Konyang Univ.
+  * Enterprise Software Dep.
+    
+* High School (2019/03 ~ 2022/02)
+  * Wirye High School
+    
 <br/>
 
 # Interests
 I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
+I'm not afraid to learn languages, but I enjoy using ABAP.  
 I like to automate and reduce annoying things.  

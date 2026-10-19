@@ -10,7 +10,7 @@ layout: about
 # Education
 * College (2022/03 ~ 2028/02)
   * Konyang Univ.
-  * Enterprise Software Dep.
+    * Enterprise Software Dep.
     
 * High School (2019/03 ~ 2022/02)
   * Wirye High School

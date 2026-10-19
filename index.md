@@ -8,7 +8,7 @@ layout: about
 <br/>
 
 # Education
-*  College (2022/03 ~ 2018/02)
+* College (2022/03 ~ 2028/02)
   * Konyang Univ.
   * Enterprise Software Dep.
     
